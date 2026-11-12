@@ -1940,7 +1940,7 @@ html, body {
     border-radius: 50%;
     background: transparent;
     border: 1px solid var(--secondary);
-    color: var(--primary);
+    color: var(--secondary);
     font-size: 1.2rem;
     text-decoration: none;
     transition: all 0.3s ease;
@@ -1948,8 +1948,8 @@ html, body {
 
 .footer-social-btn:hover,
 .footer-social-btn:active {
-    background: var(--accent);
-    color: #000000;
+    background: var(--secondary);
+    color: #ffffff;
     transform: translateY(-3px);
 }
 
