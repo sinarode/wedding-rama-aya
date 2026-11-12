@@ -1873,7 +1873,7 @@ html, body {
 
 .closing-names {
     font-family: var(--font-heading);
-    color: var(--primary);
+    color: var(--secondary, #ffffff);
     font-size: 2.6rem;
     font-weight: normal;
     margin-bottom: 22px;
@@ -1916,7 +1916,7 @@ html, body {
 .footer-vendor {
     font-family: var(--font-heading);
     font-size: 1.6rem;
-    color: var(--primary);
+    color: var(--secondary);
     letter-spacing: 1px;
     margin-bottom: 15px;
     line-height: 1.2;
@@ -1939,7 +1939,7 @@ html, body {
     height: 46px;
     border-radius: 50%;
     background: transparent;
-    border: 1px solid var(--primary);
+    border: 1px solid var(--secondary);
     color: var(--primary);
     font-size: 1.2rem;
     text-decoration: none;
@@ -1948,7 +1948,7 @@ html, body {
 
 .footer-social-btn:hover,
 .footer-social-btn:active {
-    background: var(--primary);
+    background: var(--accent);
     color: #000000;
     transform: translateY(-3px);
 }
