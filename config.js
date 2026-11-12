@@ -152,7 +152,7 @@ const CONFIG = {
     // Pengaturan Musik
     musicUrl: "musik.mp3", // Pastikan file lagu berada di folder yang sama
 
-    wishUrl: "https://script.google.com/macros/s/AKfycbz9pA1a5nzvFIUUysn4JjuNr__NXItd7H4IXj9Nzfv5oWNPfDg6Evp6-ksHZvEOYpcuWg/exec",
+    wishUrl: "https://script.google.com/macros/s/AKfycbyTmHjm_yxHD8lyaGUiNQCmC6536JizH3OuKB6aL5Og2uuBWZ4jgE4HIf25v2ok7YVf3A/exec",
 
     // Pengaturan Footer / Vendor (Wedding Organizer)
     footer: {
