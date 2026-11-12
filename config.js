@@ -20,7 +20,7 @@ const CONFIG = {
     countdownBgUrl: "Foto 5.jpg",
 
     // Foto latar belakang bagian "Send Your Wish"
-    wishBgUrl: "Foto 14.jpg",
+    wishBgUrl: "Foto 24.jpg",
 
     // Tambahkan di dalam objek CONFIG
     galleryImages: [
@@ -55,7 +55,7 @@ const CONFIG = {
         {
             title: "Awal Bertemu",
             date: "2017",
-            photos: ["Foto 2.jpg"],
+            photos: ["Foto 17.jpg"],
             story: [
                 "Siapa sangka, sebuah keisengan kecil di bangku SMA justru menjadi awal dari kisah cinta kami. Tahun 2017, saat masih bersekolah di SMA PGRI 2 Banjarmasin, aku pertama kali mengenal Rama. Awalnya, aku tidak terlalu menyukainya karena dia sering sekali menjahiliku di kelas. Namun, siapa sangka, dari sebuah pesan broadcast (BC) BBM yang dikirim Rama ke semua kontaknya, termasuk aku, percakapan kecil kami pun dimulai.",
                 "Seiring berjalannya waktu, komunikasi kami semakin intens. Kedekatan yang awalnya hanya kami rahasiakan perlahan menjadi bagian dari keseharian. Hingga saat naik ke kelas 2, kami harus berpisah kelas. Aku masuk jurusan IPA, sedangkan Rama di IPS. Kebetulan, Rama satu kelas dengan adik sepupuku. Dari situlah hubungan Rama dengan keluargaku mulai terjalin. Suatu hari, sepupuku mengajak Rama berkunjung ke rumah dan memperkenalkannya kepada Mama. Mama terlihat begitu bahagia mengetahui anaknya akhirnya memiliki seseorang yang spesial karena sebelumnya aku belum pernah pacaran hee. Sejak saat itu, Rama semakin dekat dengan keluargaku, begitu pula aku dengan keluarganya."
@@ -64,7 +64,7 @@ const CONFIG = {
         {
             title: "Perjalanan Cinta",
             date: "2020 – 2025",
-            photos: ["Foto 3.jpg"],
+            photos: ["Foto 15.jpg"],
             story: [
                 "Tahun 2020 menjadi awal perjalanan baru bagi kami setelah lulus SMA. Di tengah pandemi COVID-19, kami sama-sama berjuang mencari jalan untuk masa depan. Rama melanjutkan kuliah secara online sambil bekerja freelance, sedangkan aku menghabiskan banyak waktu bolak-balik ke rumah sakit untuk menjaga kakak sepupuku yang sedang sakit.",
                 "Dalam perjalanan itu, kami pernah melewati kesalahpahaman hingga hubungan kami perlahan merenggang. Namun, komunikasi tidak pernah benar-benar terputus. Kami mulai menyadari bahwa masa depan adalah sesuatu yang harus diperjuangkan.",
@@ -76,7 +76,7 @@ const CONFIG = {
         {
             title: "Lamaran",
             date: "13 April 2025",
-            photos: ["Foto 7.jpg"],
+            photos: ["Foto 14.jpg"],
             story: [
                 "Setelah melewati begitu banyak cerita, jarak, ujian, dan perjuangan bersama, akhirnya tiba saat yang begitu kami nantikan. Pada tanggal 13 April 2025, Rama datang bersama keluarganya untuk menyampaikan niat baik dan melamarku secara resmi.",
                 "Hari itu menjadi salah satu momen paling berharga dalam perjalanan kami. Dua orang yang dahulu hanya saling mengenal melalui pesan BBM, yang pernah melewati masa sulit, jarak yang begitu jauh, hingga berbagai ujian kehidupan, akhirnya memantapkan hati untuk melangkah ke jenjang yang lebih serius.",
@@ -152,7 +152,7 @@ const CONFIG = {
     // Pengaturan Musik
     musicUrl: "musik.mp3", // Pastikan file lagu berada di folder yang sama
 
-    wishUrl: "https://script.google.com/macros/s/AKfycbwn7w54FBsGXdyB8sIPCDRdHj1-JD1pJLNpYNkAnXh7ZWkKD3NjebD46QHCsF9VYqcF/exec",
+    wishUrl: "https://script.google.com/macros/s/AKfycbz9pA1a5nzvFIUUysn4JjuNr__NXItd7H4IXj9Nzfv5oWNPfDg6Evp6-ksHZvEOYpcuWg/exec",
 
     // Pengaturan Footer / Vendor (Wedding Organizer)
     footer: {
