@@ -136,7 +136,7 @@ const CONFIG = {
             day: "Minggu",
             month: "Desember",
             year: "2026",
-            location: "Depot Lesehan Tepi Sungai (LEPISA)",
+            location: "Taman Budaya Kalimantan Selatan",
             address: "Jl. Brigjend H. Hasan Basri (Kayu Tangi), Kota Banjarmasin, Kalimantan Selatan",
             time: "10.00 WITA - Selesai",
             mapsLink: "https://maps.app.goo.gl/BDHMqiUtg5QmU6Pu6?g_st=iw"
