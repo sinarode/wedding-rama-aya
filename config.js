@@ -1,6 +1,6 @@
 const CONFIG = {
     // URL website undangan yang sudah live (dipakai oleh generator.html untuk membuat link)
-    baseUrl: "https://wedding-rama-aya.vercel.app/",
+    baseUrl: "https://wedding-aya-rama.vercel.app/",
 
     // Pengaturan Foto
     images: [
