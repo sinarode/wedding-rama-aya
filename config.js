@@ -4,9 +4,10 @@ const CONFIG = {
 
     // Pengaturan Foto
     images: [
-        "Foto 6.jpg",
-        "Foto 25.jpg",
+        "Foto 4.jpg",
         "Foto 5.jpg",
+        "Foto 9.jpg",
+        "Foto 6.jpg",
     ],
 
     imagesMain: [
