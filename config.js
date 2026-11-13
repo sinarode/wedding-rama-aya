@@ -104,7 +104,7 @@ const CONFIG = {
     text: {
         groom: {
             nickname: "Rama",
-            fullName: "Bradha Ramadhani",
+            fullName: "Ramadhani",
             parents: "Putra Ke 3 dari Bapak Anang Misran (alm) & Ibu Murni Habibah (alm)",
             instagram: "rmadhaniii_",
             photo: "rama.jpg"
