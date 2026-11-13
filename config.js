@@ -20,7 +20,7 @@ const CONFIG = {
     countdownBgUrl: "Foto 5.jpg",
 
     // Foto latar belakang bagian "Send Your Wish"
-    wishBgUrl: "Foto 24.jpg",
+    wishBgUrl: "Foto 25.jpg",
 
     // Tambahkan di dalam objek CONFIG
     galleryImages: [
