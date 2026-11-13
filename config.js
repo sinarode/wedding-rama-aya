@@ -4,14 +4,14 @@ const CONFIG = {
 
     // Pengaturan Foto
     images: [
-        "Foto 4.jpg",
+        "Foto 6.jpg",
+        "Foto 25.jpg",
         "Foto 5.jpg",
-        "Foto 6.jpg"
     ],
 
     imagesMain: [
         "Foto 5.jpg",
-        "Foto 9.jpg",
+        "Foto 25.jpg",
         "Foto 4.jpg"
     ],
 
@@ -33,6 +33,7 @@ const CONFIG = {
         "Foto 6.jpg",
         "Foto 2.jpg",
         "Foto 7.jpg",
+        "Foto 25.jpg",
         "Foto 11.jpg",
         "Foto 12.jpg",
         "Foto 16.jpg",
@@ -42,11 +43,10 @@ const CONFIG = {
         "Foto 17.jpg",
         "Foto 22.jpg",
         "Foto 23.jpg", 
-        "Foto 20.jpg",
         "Foto 18.jpg",
         "Foto 19.jpg",
         "Foto 21.jpg",
-               
+        "Foto 20.jpg",       
     ],
 
     // Pengaturan Kisah Cinta (foto tampil di atas setiap cerita)
