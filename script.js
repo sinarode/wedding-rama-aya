@@ -559,25 +559,7 @@ document.addEventListener("DOMContentLoaded", function () {
 
     // 16. wedding gift
     // Tambahkan di dalam DOMContentLoaded script.js
-    const showGiftBtn = document.getElementById('show-gift-btn');
-    const bankContainer = document.getElementById('bank-cards-container');
-
-    showGiftBtn.addEventListener('click', () => {
-        // Mengecek apakah container saat ini tersembunyi
-        const isHidden = bankContainer.classList.contains('hidden');
-
-        if (isHidden) {
-            // Jika tersembunyi, tampilkan dan ubah teks tombol
-            bankContainer.classList.remove('hidden');
-            showGiftBtn.innerText = "Sembunyikan";
-        } else {
-            // Jika sedang tampil, sembunyikan dan kembalikan teks tombol
-            bankContainer.classList.add('hidden');
-            showGiftBtn.innerText = "Klik Disini";
-        }
-    });
-
-    // Pastikan logika pembuatan card tetap jalan seperti sebelumnya
+    // Buat kartu rekening (selalu tampil)
     if (CONFIG.gift) {
         document.getElementById('gift-desc').innerText = CONFIG.gift.description;
         // ... sisa kode pembuatan card ...
